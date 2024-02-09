@@ -1,5 +1,9 @@
 # this is a header
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## level 2
 
 ### level3
